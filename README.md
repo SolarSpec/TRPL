@@ -265,7 +265,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more information.
+Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 
 Please refer to the TDMS reader directory to view the accompanying [`license.txt`](https://github.com/SolarSpec/ScriptsAndFunctions/blob/main/Matlab%20TDMS%20reader/license.txt)
 
@@ -299,7 +299,7 @@ Project Link: [https://github.com/SolarSpec/ScriptsAndFunctions](https://github.
 [issues-shield]: https://img.shields.io/github/issues/SolarSpec/ScriptsAndFunctions.svg?style=for-the-badge
 [issues-url]: https://github.com/SolarSpec/ScriptsAndFunctions/issues
 [license-shield]: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg?style=for-the-badge
-[license-url]: https://github.com/SolarSpec/ScriptsAndFunctions/blob/main/LICENSE
+[license-url]: https://github.com/SolarSpec/TRPL/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/raad-sarker-37935a286/
 [product-screenshot]: ScriptsAndFunctions/TRPL_Photos/screenshot.png 
