@@ -111,7 +111,7 @@ To begin using this enhanced app, follow these simple steps to ensure you have t
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/SolarSpec/TRPL_Photos.git
+   git clone https://github.com/SolarSpec/TRPL.git
    ```
 
 2. Install the application in MATLAB
