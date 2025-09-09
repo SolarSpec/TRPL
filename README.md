@@ -116,7 +116,7 @@ To begin using this enhanced app, follow these simple steps to ensure you have t
 
 2. Install the application in MATLAB
    ```
-   Double-click the TRPL.mlappinstall file in the ScriptsAndFunctions directory
+   Double-click the TRPL.mltbx file in the ScriptsAndFunctions directory
    ```
 
 3. Access the app
